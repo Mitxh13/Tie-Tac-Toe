@@ -14,6 +14,6 @@ The bot is smart enough to block your winning moves and take its own winning cha
 ---
 
 ## 📂 Project Structure
-├── main.py
-├── botplayer.py 
+├── main.py<br>
+├── botplayer.py <br>
 └── README.md
