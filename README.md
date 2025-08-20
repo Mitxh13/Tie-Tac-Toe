@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe (Console-Based with AI)
+# 🎮 Tic Tac Toe
 
 A simple **console-based Tic Tac Toe game** in Python where you play as **X** against an AI bot (**O**) powered by the **Minimax algorithm**.  
 The bot is smart enough to block your winning moves and take its own winning chances.
